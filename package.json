@@ -30,7 +30,7 @@
     "tslib": "^2.4.0"
   },
   "devDependencies": {
-    "@polkadot/api-augment": "^9.2.1",
+    "@polkadot/api-augment": "^9.9.1",
     "@polkadot/rpc-augment": "^9.8.1",
     "@polkadot/types-codec": "^9.2.1",
     "@polkadot/types-create": "^9.8.1",
